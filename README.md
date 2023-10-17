@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 I am a Software Engineer with over 8 years of experience in the technology industry.
-
-With a passion for problem-solving and a love for writing clean and efficient code, I have had the pleasure of working on various complex projects throughout my career. 
+With a passion for problem-solving and a love for writing clean and efficient code, I have had the pleasure of working on various complex projects throughout my career.
 
 - 🔭 I’m currently working on enhancing the scalability of a large e-commerce platform, optimizing database queries, and implementing microservices architecture for improved performance.
 - 🌱 I’m currently learning about machine learning and data science to expand my skill set and explore new avenues for technology-driven solutions.
