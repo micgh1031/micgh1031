@@ -8,7 +8,6 @@ With a passion for problem-solving and a love for writing clean and efficient co
 - 👯 I’m looking to collaborate on open-source projects related to web development and contribute to the developer community.
 - 🤔 I’m looking for help with refining my understanding of cloud-native technologies, particularly Kubernetes and Docker, as I aim to incorporate them into our infrastructure.
 - 💬 Ask me about software design patterns, performance optimization, or best practices in web development.
-- 📫 How to reach me: Feel free to connect with me on Telegram - [@micgh1031](https://t.me/micgh1031).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once wrote a script that automatically generates puns based on user input – a quirky project that added some humor to our team's daily communications.
 
