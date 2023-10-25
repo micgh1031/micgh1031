@@ -11,6 +11,18 @@ With a passion for problem-solving and a love for writing clean and efficient co
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once wrote a script that automatically generates puns based on user input – a quirky project that added some humor to our team's daily communications.
 
+#### Web & Mobile Development
+- HTML5, CSS3, JavaScript, jQuery, Prototype
+- TypeScript, React.js, Vue.js, Next.js, Node.js, Express.JS
+- Python, Django, Flask, FastAPI
+- Golang, Gin, Echo
+- PHP, Laravel, Codeigniter, Yii, CakePHP
+- eCommerce, Magento, Shopify
+- C#, .NET, .NET Core, ASP.NET
+- GCP, AWS, Azure, Cloudinary, AWS Amplify, Firebase
+- GraphQL, MongoDB, MySQL, PostgreSQL, MSSQL
+- Flutter, Ionic, React Native
+
 #### AI & ML
 - TensorFlow
 - Pandas
@@ -18,17 +30,6 @@ With a passion for problem-solving and a love for writing clean and efficient co
 - Image Processing
 - OCR
 - NLP
-
-#### Web & Mobile Development
-- HTML5, CSS3, JavaScript, jQuery, Prototype
-- TypeScript, React.js, Vue.js, Next.js, Node.js, Express.JS
-- PHP, Laravel, Codeigniter, Yii, CakePHP
-- Python, Django, Flask, FastAPI
-- eCommerce, Magento, Shopify
-- C#, .NET, .NET Core, ASP.NET
-- GCP, AWS, Azure, Cloudinary, AWS Amplify, Firebase
-- GraphQL, MongoDB, MySQL, PostgreSQL, MSSQL
-- Flutter, Ionic, React Native
 
 ### :fire: My Stats :
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=micgh1031&show_icons=true&theme=radical)
