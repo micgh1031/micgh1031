@@ -3,7 +3,7 @@
 I am a Software Engineer with over 7 years of experience in the technology industry.
 With a passion for problem-solving and a love for writing clean and efficient code, I have had the pleasure of working on various complex projects throughout my career.
 
-- 🔭 I’m currently working on enhancing the scalability of a large video streaming platform, optimizing database queries, and implementing microservices architecture for improved performance.
+- 🔭 I’m currently working on enhancing the scalability of a private video streaming platform, optimizing database queries, and implementing microservices architecture for improved performance.
 - 🌱 I’m currently learning about machine learning and data science to expand my skill set and explore new avenues for technology-driven solutions.
 - 👯 I’m looking to collaborate on open-source projects related to web development and contribute to the developer community.
 - 🤔 I’m looking for help with refining my understanding of cloud-native technologies, particularly Docker, Kubernetes and Terraform, as I aim to incorporate them into our infrastructure.
