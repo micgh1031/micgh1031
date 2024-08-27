@@ -12,13 +12,11 @@ With a passion for problem-solving and a love for writing clean and efficient co
 - ⚡ Fun fact: I once wrote a script that automatically generates puns based on user input – a quirky project that added some humor to our team's daily communications.
 
 #### Technical Skills
-- Golang, GRPC, REST API, Gomega, Ginkgo
-- Docker, Kubernetes, CI/CD pipelines
-- GCP, AWS, Azure, AWS Lambda, Firebase
-- Python, Django, Flask
-- PHP, Laravel,
-- TypeScript, React.js, Vue.js, Next.js, Node.js
-- PostgreSQL, MongoDB, MySQL, SQLite
+- JavaScript, TypeScript, React.js, Next.js, Vue.js, Svelte
+- TanStack (React Query), Zustand, Redux, TailwindCSS, React MUI
+- Node.js, NestJS, Python, REST API, Web Scraping
+- SQL, MySQL, Oracle, NoSQL, MongoDB, AWS DocumentDB, GraphQL, Redis
+- Docker, AWS Lambda, Terraform, Kubernetes
 
 ### :fire: My Stats :
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=micgh1031&show_icons=true&theme=radical)
