@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Software Engineer with over 7 years of experience in the technology industry.
+I am a Software Engineer with over 15 years of experience in the technology industry.
 With a passion for problem-solving and a love for writing clean and efficient code, I have had the pleasure of working on various complex projects throughout my career.
 
 - 🔭 I’m currently working on enhancing the scalability of a private video streaming platform, optimizing database queries, and implementing microservices architecture for improved performance.
@@ -17,12 +17,6 @@ With a passion for problem-solving and a love for writing clean and efficient co
 - Node.js, NestJS, Python, REST API, Web Scraping
 - SQL, MySQL, Oracle, NoSQL, MongoDB, AWS DocumentDB, GraphQL, Redis
 - Docker, AWS Lambda, Terraform, Kubernetes
-
-### :fire: My Stats :
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=micgh1031&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micgh1031&layout=compact&theme=vision-friendly-dark)](https://github.com/micgh1031/github-readme-stats)
-  [![Michael's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=micgh1031&theme=dark&background=000000)](https://git.io/streak-stats)
-
 
 <!--
 **micgh1031/micgh1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
